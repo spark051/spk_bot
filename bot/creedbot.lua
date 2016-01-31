@@ -281,7 +281,7 @@ Set a group's rules
 
 !lock [GroupID] [setting]
 Lock a group's setting
-تنظیکات گروهی را قفل بکنید
+تنظیمات گروهی را قفل کنید
 
 !unlock [GroupID] [setting]
 Unock a group's setting
